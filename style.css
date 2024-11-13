@@ -1,0 +1,26 @@
+.heading{
+    color:#1877f2;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
+body{
+    font-family: Helvetica, Arial, sans-serif;
+}
+.div1{
+    background-color:#fff;
+    display: block;
+    width: 430px;
+    text-align: center;
+    margin-left: 400px;
+    border-radius: 8px;
+    border: 1px solid;
+    height: 300px;
+
+}
+input{
+    font-family: inherit;
+    height: 20px;
+    width: 300px;
+    padding: 10px;
+}
